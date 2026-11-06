@@ -112,9 +112,7 @@ Claude suit alors `SKILL.md`, dans cet ordre :
 - **Fichiers `cues.md`.** Ils sont traduits, mais `mix.py` les réécrit en anglais si tu relances le mixage.
 - **Ton contenu.** L'histoire, les personnages et la voix doivent toujours être les tiens. Les références servent pour le look, pas pour le contenu.
 
-## Crédits et licence
-- Le skill d'origine, `cartoon-3d-short`, est de [Mr omi](https://github.com/mromidev/claude-animated-shorts). Sans lui, rien de tout ça.
-- L'adaptation française, le short « La fuite à Varennes » et tout ce qui en est tiré sont de [Mist9989](https://github.com/Mist9989) ([Mist IA](https://www.youtube.com/@Mist9-i3j) sur YouTube).
+
 
 Le code et les documents sont sous licence MIT (voir `LICENSE`) : © 2026 Mr omi pour le skill d'origine, © 2026 Mist9989 pour l'adaptation française et les ajouts de Varennes. Si tu redistribues ce skill, garde le fichier `LICENSE`.
 
